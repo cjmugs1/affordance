@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/affordance/static/css/main.218b5446.css",
+    "main.js": "/affordance/static/js/main.5d762c00.js",
+    "static/media/selfie.jpg": "/affordance/static/media/selfie.e21c30db55e5ba955c09.jpg",
+    "static/media/sql.JPG": "/affordance/static/media/sql.5f5b6bbcb0ac16289a57.JPG",
+    "static/media/recipeasy.JPG": "/affordance/static/media/recipeasy.d114eda7869d89abb62c.JPG",
+    "static/media/pixum.png": "/affordance/static/media/pixum.9897c9ddedfc645d6da7.png",
+    "static/media/jate.JPG": "/affordance/static/media/jate.d51be8b81fc6b8d95b5c.JPG",
+    "static/media/note-taker-screenshot.JPG": "/affordance/static/media/note-taker-screenshot.e8ccd3e02cf2270b01d8.JPG",
+    "static/media/sneakylink.JPG": "/affordance/static/media/sneakylink.43989b7fa1ab6f06fddd.JPG",
+    "static/media/vuv.svg": "/affordance/static/media/vuv.7fab2078f410edc4159c941239612dcc.svg",
+    "index.html": "/affordance/index.html",
+    "main.218b5446.css.map": "/affordance/static/css/main.218b5446.css.map",
+    "main.5d762c00.js.map": "/affordance/static/js/main.5d762c00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.218b5446.css",
+    "static/js/main.5d762c00.js"
+  ]
+}

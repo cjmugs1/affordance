@@ -1,5 +1,4 @@
-import { HashRouter, Route } from 'react-router-dom';
-import Switch from 'react-router-dom/esm/react-router-dom/switch';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 import Home from './pages/Home';
 import Work from './pages/Work';
@@ -8,16 +7,16 @@ import Resume from './pages/Resume';
 
 function App() {
   return (
-    <HashRouter>
+    <Router>
       <div className="app-parent-div">
-        <Switch>
-          <Route exact path="/" element={<Home />} />
+        <Routes>
+          <Route path="/" element={<Home />} />
           <Route path="/work" element={<Work />} />
           <Route path="/contact" element={<Contact />} />
           {/* <Route path="/resume" element={<Resume />} /> */}
-        </Switch>
+        </Routes>
       </div>
-    </HashRouter>
+    </Router>
   );
 }
 
