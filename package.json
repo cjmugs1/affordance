@@ -1,7 +1,6 @@
 {
   "name": "affordance",
   "version": "0.1.0",
-  "homepage": "https://cjmugs1.github.io/affordance",
   "private": true,
   "dependencies": {
     "@ant-design/colors": "^7.0.0",
