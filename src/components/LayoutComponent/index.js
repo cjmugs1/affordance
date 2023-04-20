@@ -1,24 +1,21 @@
 import { Breadcrumb, Layout } from 'antd';
 const { Content } = Layout;
 
+import '../../App.css'
+
 import HeaderComponent from '../HeaderComponent';
 import FooterComponent from '../FooterComponent';
 
-function SiteLayout ({ children }) {
+function LayoutComponent ({ children }) {
   
     return (
-        <Layout className="layout">
+        <Layout className='layout'>
             <HeaderComponent />
             <Content style={{ padding: '0 50px' }}>
-                <Breadcrumb style={{ margin: '16px 0' }}>
-                    <Breadcrumb.Item>affordance</Breadcrumb.Item>
-                    <Breadcrumb.Item>List</Breadcrumb.Item>
-                    <Breadcrumb.Item>App</Breadcrumb.Item>
-                </Breadcrumb>
                 {children}
             </Content>
             <FooterComponent />
         </Layout>
     );
 };
-export default SiteLayout;
+export default LayoutComponent;
