@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/affordance/static/css/main.5968a547.css",
-    "main.js": "/affordance/static/js/main.07187a5d.js",
+    "main.js": "/affordance/static/js/main.0033ea7f.js",
     "static/media/selfie.jpg": "/affordance/static/media/selfie.e21c30db55e5ba955c09.jpg",
     "static/media/sql.JPG": "/affordance/static/media/sql.5f5b6bbcb0ac16289a57.JPG",
     "static/media/recipeasy.JPG": "/affordance/static/media/recipeasy.d114eda7869d89abb62c.JPG",
@@ -12,10 +12,10 @@
     "static/media/vuv.svg": "/affordance/static/media/vuv.7fab2078f410edc4159c941239612dcc.svg",
     "index.html": "/affordance/index.html",
     "main.5968a547.css.map": "/affordance/static/css/main.5968a547.css.map",
-    "main.07187a5d.js.map": "/affordance/static/js/main.07187a5d.js.map"
+    "main.0033ea7f.js.map": "/affordance/static/js/main.0033ea7f.js.map"
   },
   "entrypoints": [
     "static/css/main.5968a547.css",
-    "static/js/main.07187a5d.js"
+    "static/js/main.0033ea7f.js"
   ]
 }
