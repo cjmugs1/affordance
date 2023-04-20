@@ -18,6 +18,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
+  "homepage": "https://cjmugs1.github.io/affordance/",
   "browserslist": {
     "production": [
       ">0.2%",
