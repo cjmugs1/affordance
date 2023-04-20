@@ -1,6 +1,7 @@
 {
   "name": "affordance",
   "version": "0.1.0",
+  "homepage": "https://cjmugs1.github.io/affordance",
   "private": true,
   "dependencies": {
     "@ant-design/colors": "^7.0.0",
@@ -18,7 +19,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://cjmugs1.github.io/affordance/",
   "browserslist": {
     "production": [
       ">0.2%",
